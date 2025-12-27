@@ -1,0 +1,3 @@
+cd dmg
+chmod +x build-dmg.sh
+./build-dmg.sh
